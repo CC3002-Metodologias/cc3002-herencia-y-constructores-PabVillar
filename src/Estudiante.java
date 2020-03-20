@@ -21,7 +21,7 @@ public class Estudiante extends Persona {
 
     @Override
     public void hacerCuarentena(){
-        System.out.println("Soy un estudiante en cuarentena");
+        System.out.println("Soy un estudiante en cuarentena uwu");
     }
 
 }

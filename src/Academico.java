@@ -28,6 +28,6 @@ public class Academico extends Persona{
 
     @Override
     public void hacerCuarentena(){
-        System.out.println("Soy un academico en cuarentena");
+        System.out.println("Soy un academico en cuarentena uwu");
     }
 }
